@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$IwQirKkTmW5LrxEV3jM7duHuaNniZchFCGtEBqzbI7PJ0yA7RLE7K",
+      "name": "kenzito",
+      "id": 1
+    },
+    {
+      "email": "arthurpeixoto@gmail.com",
+      "password": "$2a$10$8opBfaCgXDeE0dv4JhVOqOBqwk749o2YWPHrXAuf0CF82ECoqOYOG",
+      "name": "ARTHUR PEIXOTO TICIANELI",
+      "id": 2
+    },
+    {
+      "email": "aaaaaa@gmail.com",
+      "password": "$2a$10$6jtHXaOzqXmdG96TQcNAau9kzgf1/VxCG9KBZGw0nYNdw8CVm582a",
+      "name": "ARTHUR PEIXOTO TICIANELI",
+      "id": 3
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$ovLQfVS8U1booXMoTTFg2OT6ZuaRFSEtfh64kuLk9TriHXHLp9FYm",
+      "name": "aaaaa",
+      "id": 4
+    }
+  ],
+  "productList": [
+    {
+      "id": 1,
+      "title": "Hamburguer",
+      "category": "Sanduíches",
+      "price": "14.00",
+      "image": "https://i.ibb.co/fpVHnZL/hamburguer.png",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "title": "X-burguer",
+      "category": "Sanduíches",
+      "price": "16.00",
+      "image": "https://i.ibb.co/djbw6LV/x-burgue.png",
+      "amount": 1
+    },
+    {
+      "id": 3,
+      "title": "Big Burguer",
+      "category": "Sanduíches",
+      "price": "18.00",
+      "image": "https://i.ibb.co/FYBKCwn/big-kenzie.png",
+      "amount": 1
+    },
+    {
+      "id": 4,
+      "title": "Fanta Guaraná",
+      "category": "Bebidas",
+      "price": "5.00",
+      "image": "https://i.ibb.co/cCjqmPM/fanta-guarana.png",
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "title": "Coca-cola",
+      "category": "Bebidas",
+      "price": "7.00",
+      "image": "https://i.ibb.co/fxCGP7k/coca-cola.png",
+      "amount": 1
+    },
+    {
+      "id": 6,
+      "title": "Milkshake Ovomaltine",
+      "category": "Sobremesas",
+      "price": "10.00",
+      "image": "https://i.ibb.co/QNb3DJJ/milkshake-ovomaltine.png",
+      "amount": 1
+    }
+  ],
+  "cart": []
+}
